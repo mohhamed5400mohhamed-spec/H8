@@ -1,0 +1,13 @@
+{
+  "globalEnabled": true,
+  "autoHopEnabled": false,
+  "autoRejoinOnKick": true,
+  "kickRejoinDelaySeconds": 2,
+  "autoRepliesEnabled": true,
+  "welcomeEnabled": true,
+  "delayedReplyEnabled": false,
+  "replyDelaySeconds": 2,
+  "hopMode": "random",
+  "hopIntervalMinutes": 5,
+  "selectedHopRooms": []
+}

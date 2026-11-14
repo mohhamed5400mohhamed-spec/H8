@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+members.json
+active_sessions.json
+admin_audit_logs.json
+recent_logins.json
+chat_history.json
+global_appearance.json
+roles_config.json
+shortcuts.json
+uploads/
